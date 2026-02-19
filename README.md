@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Mantavya Singh 👋
 
-<!--
-**mantavya-codes/mantavya-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Aspiring Software Developer  
+🤖 Interested in AI & Problem Solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Passionate about Artificial Intelligence
+- Building projects in Python & Java
+- Practicing Data Structures & Algorithms
+- Learning Git & Open Source
+
+---
+
+## 🛠 Tech Stack
+- Python
+- Java
+- Git & GitHub
+- VS Code
+
+---
+
+## 📈 Current Goal
+To build strong projects and secure a remote internship.
+
+---
+
+📫 Email: mantavyasingh17@gmail.com
